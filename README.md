@@ -4,9 +4,13 @@ The main aim of this project is to identify the better throughput for a simple K
 ##Framework
 
 DL4j
+
 Theano & Ecosystem
+
 Torch
+
 TensorFlow
+
 Caffe
 
 ##Distributed units
